@@ -18,7 +18,7 @@
                                 <span class="block text-indigo-300">la Excelencia en Transporte</span>
                             </h1>
                             <p class="mt-6 max-w-lg mx-auto text-center text-lg text-gray-300 leading-relaxed sm:max-w-1xl">
-                                Con más de 25 años de experiencia en rutas desafiantes desde Arsica hasta Punta Arenas, en Transportes LQM nos especializamos en ofrecer soluciones de transporte confiables y de alta calidad, asegurando la seguridad y tranquilidad de nuestros clientes en cada entrega.
+                                Con más de 25 años de experiencia en rutas desafiantes desde Arica hasta Punta Arenas, en Transportes LQM nos especializamos en ofrecer soluciones de transporte confiables y de alta calidad, asegurando la seguridad y tranquilidad de nuestros clientes en cada entrega.
                             </p>
                             <div class="mt-10 max-w-sm mx-auto sm:max-w-none sm:flex sm:justify-center">
                                 <div class="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
