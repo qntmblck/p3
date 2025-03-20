@@ -45,7 +45,7 @@
                         </p>
                     </a>
                     <a href="https://www.subcontrataley.cl" class="p-6 rounded-lg shadow-lg hover:bg-gray-50">
-                        <h2 class="text-lg font-bold text-gray-900">Normas y Cumplimiento</h2>
+                        <h2 class="text-lg font-bold text-gray-900">Normass y Cumplimiento</h2>
                         <p class="mt-4 text-gray-600">
                             Conozca las regulaciones clave en el transporte de carga y cómo Transportes LQM garantiza el cumplimiento de todas las normativas.
                         </p>
