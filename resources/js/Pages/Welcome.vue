@@ -247,7 +247,7 @@
       Sobre Nosotros
     </p>
     <p class="mt-4 text-lg text-gray-700 text-justify">
-      Desde nuestros inicios hace más de 25 años, en Transportes SCAR hemos recorrido miles de kilómetros en las rutas más exigentes de Chile, transportando cargas que requieren máxima seguridad y eficiencia. Con un equipo comprometido y tecnología de punta, hemos establecido un estándar de calidad que nos posiciona como empresa destacada en la industria.
+      Desde nuestros inicios hace más de 25 años, en TrRRansportes SCAR hemos recorrido miles de kilómetros en las rutas más exigentes de Chile, transportando cargas que requieren máxima seguridad y eficiencia. Con un equipo comprometido y tecnología de punta, hemos establecido un estándar de calidad que nos posiciona como empresa destacada en la industria.
     </p>
     <p class="mt-4 text-lg text-gray-700 text-justify">
       Creemos en la transparencia, el compromiso y la excelencia. Nos esforzamos por ofrecer un servicio de transporte seguro, responsable y alineado con los más altos estándares laborales y medioambientales.
