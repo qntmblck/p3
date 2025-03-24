@@ -210,7 +210,7 @@
       </section>
 
       <!-- PANORAMA LOGÍSTICO -->
-<section id="panorama-logistico" class="bg-white py-12">
+      <section id="panorama-logistico" class="bg-white py-12">
   <div class="mx-auto max-w-4xl text-center">
     <p class="text-4xl font-bold tracking-tight text-gray-900">
       Panorama Logístico
@@ -238,10 +238,10 @@
       </a>
     </div>
   </div>
-</section>
+      </section>
 
-<!-- SOBRE NOSOTROS -->
-<section id="sobre-nosotros" class="bg-gray-100 py-12">
+      <!-- SOBRE NOSOTROS -->
+      <section id="sobre-nosotros" class="bg-gray-100 py-12">
   <div class="mx-auto max-w-4xl text-center">
     <p class="text-4xl font-bold tracking-tight text-gray-900">
       Sobre Nosotros
@@ -253,7 +253,7 @@
       Creemos en la transparencia, el compromiso y la excelencia. Nos esforzamos por ofrecer un servicio de transporte seguro, responsable y alineado con los más altos estándares laborales y medioambientales.
     </p>
   </div>
-</section>
+      </section>
 
 <!-- NUESTROS SERVICIOS -->
 <section id="servicios" class="bg-white py-12">
@@ -329,8 +329,6 @@
     </p>
   </div>
 </section>
-
-
 
 <!-- ESTADÍSTICAS -->
 <section class="bg-gray-100 py-12">
