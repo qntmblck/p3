@@ -247,7 +247,7 @@
       Sobre Nosotros
     </p>
     <p class="mt-4 text-lg text-gray-700 text-justify">
-      Desde nuestros inicios hace más de 25 años, en TrRRansportes SCAR hemos recorrido miles de kilómetros en las rutas más exigentes de Chile, transportando cargas que requieren máxima seguridad y eficiencia. Con un equipo comprometido y tecnología de punta, hemos establecido un estándar de calidad que nos posiciona como empresa destacada en la industria.
+      Desde nuestros inicios hace más de 25 años, en Transportes SCAR hemos recorrido miles de kilómetros en las rutas más exigentes de Chile, transportando cargas que requieren máxima seguridad y eficiencia. Con un equipo comprometido y tecnología de punta, hemos establecido un estándar de calidad que nos posiciona como empresa destacada en la industria.
     </p>
     <p class="mt-4 text-lg text-gray-700 text-justify">
       Creemos en la transparencia, el compromiso y la excelencia. Nos esforzamos por ofrecer un servicio de transporte seguro, responsable y alineado con los más altos estándares laborales y medioambientales.
@@ -259,7 +259,7 @@
 <section id="servicios" class="bg-white py-12">
   <div class="mx-auto max-w-4xl text-center">
     <p class="text-4xl font-bold tracking-tight text-gray-900">
-      Nuestros Servicios
+      Nuestro Servicio
     </p>
     <p class="mt-4 text-lg text-gray-700 text-justify">
       Nos especializamos en soluciones logísticas adaptadas a cada necesidad, basadas en experiencia, tecnología y relaciones de confianza.
@@ -283,72 +283,73 @@
       Compromiso y Alianzas
     </p>
     <p class="mt-4 text-lg text-gray-700 text-justify">
-      En Transportes SCAR trabajamos junto a clientes e instituciones estratégicas para garantizar auditorías rigurosas, mejorar continuamente nuestros procesos y promover la capacitación continua de nuestro personal.
+      En Transportes SCAR trabajamos junto a nuestros clientes e instituciones estratégicas para cumplir con auditorías exigentes, fortalecer el cumplimiento normativo, mejorar continuamente nuestros procesos y promover la formación continua de nuestro equipo.
     </p>
   </div>
   <div class="mt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 max-w-7xl mx-auto px-6 lg:px-8">
+    
+    <!-- ACHS Virtual + Gestión -->
     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition text-center">
-      <img src="/img/dashboard/achs.png" alt="ACHS Virtual" class="mx-auto h-12 mb-4" loading="lazy" />
-      <p class="text-lg font-bold text-indigo-600">ACHS Virtual</p>
+      <img src="/img/dashboard/achs.png" alt="ACHS" class="mx-auto h-12 mb-4" loading="lazy" />
+      <p class="text-lg font-bold text-indigo-600">ACHS Virtual & Gestión</p>
       <p class="mt-2 text-sm text-gray-700 text-justify">
-        Plataforma de capacitación que fortalece la seguridad laboral.
+        Herramientas digitales de capacitación y gestión avanzada en seguridad y salud laboral, promoviendo el bienestar y cumplimiento normativo en toda la organización.
       </p>
     </div>
+
+    <!-- Subcontralaley -->
     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition text-center">
       <img src="/img/dashboard/subcontralaley.png" alt="Subcontralaley" class="mx-auto h-12 mb-4" loading="lazy" />
       <p class="text-lg font-bold text-indigo-600">Subcontralaley</p>
       <p class="mt-2 text-sm text-gray-700 text-justify">
-        Sistema de control para garantizar el cumplimiento normativo.
+        Sistema de monitoreo y gestión para asegurar el cumplimiento normativo de trabajadores y empresas colaboradoras.
       </p>
     </div>
+
+    <!-- Maquinaria para Construcción -->
     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition text-center">
-      <img src="/img/dashboard/achs-gestion.png" alt="ACHS Gestión" class="mx-auto h-12 mb-4" loading="lazy" />
-      <p class="text-lg font-bold text-indigo-600">ACHS Gestión</p>
+      <img src="/img/dashboard/maquinaria.png" alt="Maquinaria para Construcción" class="mx-auto h-12 mb-4" loading="lazy" />
+      <p class="text-lg font-bold text-indigo-600">Maquinaria para Construcción</p>
       <p class="mt-2 text-sm text-gray-700 text-justify">
-        Herramienta avanzada para la gestión en seguridad y salud laboral.
+        Nos aliamos con empresas líderes en arriendo de maquinaria para asegurar operaciones eficientes y seguras.
       </p>
     </div>
+
+    <!-- Alianza con Transportes -->
     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition text-center">
-      <img src="/img/dashboard/maquinaria.png" alt="Transporte y Maquinarias" class="mx-auto h-12 mb-4" loading="lazy" />
-      <p class="text-lg font-bold text-indigo-600">Transporte y Maquinarias</p>
+      <img src="/img/dashboard/maquinaria.png" alt="Alianza con Transportes" class="mx-auto h-12 mb-4" loading="lazy" />
+      <p class="text-lg font-bold text-indigo-600">Alianza con Transportes</p>
       <p class="mt-2 text-sm text-gray-700 text-justify">
-        Forjamos alianzas con empresas de transporte y arriendo de maquinaria, brindando servicios integrales y eficientes.
+        Establecemos convenios con empresas de transporte para ampliar nuestra cobertura logística a lo largo del país.
       </p>
     </div>
-  </div>
-  <!-- EDUCACIÓN Y BIENESTAR -->
-  <div class="mt-16 max-w-4xl mx-auto text-center">
-    <p class="text-4xl font-bold tracking-tight text-gray-900">
-      Educación y Bienestar
-    </p>
-    <p class="mt-4 text-lg text-gray-700 text-justify">
-      Sabemos que el transporte seguro comienza con un equipo bien capacitado. Por eso, en Transportes SCAR ofrecemos programas de formación continua alineados con las últimas normativas, asegurando que cada miembro esté preparado para enfrentar los desafíos de la carretera.
-    </p>
-    <p class="mt-4 text-lg text-gray-700 text-justify">
-      Promovemos una cultura de seguridad y autocuidado, fomentando el respeto, el compromiso y la mejora continua. Nos importa la gente que mueve a Chile.
-    </p>
+
   </div>
 </section>
 
-<!-- ESTADÍSTICAS -->
+
+<!-- ESTADÍSTICAS Y COMPROMISO -->
 <section class="bg-gray-100 py-12">
-        <div class="max-w-7xl mx-auto px-6 lg:px-8">
-          <div class="mx-auto max-w-2xl text-center">
-            <p class="text-4xl font-bold tracking-tight text-gray-900">
-              Confiado por cientos de clientes en todo Chile
-            </p>
-            <p class="mt-4 text-lg text-gray-700">
-              El mercado del transporte de carga en Chile es cada vez más costoso y a la vez crece con un 5.61% de alza anual. Sin embargo, en Transportes SCAR ofrecemos soluciones competitivas, reduciendo costos y asegurando tiempos de entrega óptimos para nuestros clientes.
-            </p>
-          </div>
-          <dl class="mt-10 mx-auto max-w-4xl grid grid-cols-1 gap-x-8 gap-y-10 text-gray-900 sm:grid-cols-2 lg:grid-cols-4">
-            <div v-for="stat in stats" :key="stat.id" class="flex flex-col gap-y-3 border-l border-gray-300 pl-6">
-              <dt class="text-sm font-semibold">{{ stat.name }}</dt>
-              <dd class="order-first text-3xl font-bold tracking-tight">{{ stat.value }}</dd>
-            </div>
-          </dl>
-        </div>
+  <div class="mx-auto max-w-4xl text-center">
+    <p class="text-4xl font-bold tracking-tight text-gray-900">
+      Confiado por cientos de clientes y colaboradores en todo Chile
+    </p>
+    <p class="mt-4 text-lg text-gray-700 text-justify">
+      El mercado del transporte de carga en Chile crece con un 5.61% de alza anual. En Transportes SCAR no solo respondemos con eficiencia y costos competitivos, sino que además invertimos en el desarrollo de nuestro equipo. Creemos que un transporte seguro comienza con personas capacitadas, por eso ofrecemos programas de formación continua alineados con las últimas normativas.
+    </p>
+    <p class="mt-4 text-lg text-gray-700 text-justify">
+      Nuestra cultura organizacional promueve el autocuidado, el respeto y la mejora constante. Nos importa el bienestar de quienes mueven a Chile, y eso se refleja en la confianza de nuestros clientes y en el compromiso de nuestros trabajadores.
+    </p>
+  </div>
+  <dl class="mt-10 mx-auto max-w-7xl grid grid-cols-1 gap-x-8 gap-y-10 text-gray-900 sm:grid-cols-2 lg:grid-cols-4 px-6 lg:px-8">
+    <div v-for="stat in stats" :key="stat.id" class="flex flex-col gap-y-3 border-l border-gray-300 pl-6">
+      <dt class="text-sm font-semibold">{{ stat.name }}</dt>
+      <dd class="order-first text-3xl font-bold tracking-tight">{{ stat.value }}</dd>
+    </div>
+  </dl>
 </section>
+
+
 
 <!-- CTA SECTION -->
 <section class="relative isolate mt-16 px-6 py-24 sm:py-32 lg:px-8 bg-gray-900">
@@ -512,11 +513,12 @@ const services = [
 
 // Datos para la sección Estadísticas
 const stats = [
-  { id: 1, name: 'Valor de Mercado', value: 'USD 20.13B' },
-  { id: 2, name: 'Crecimiento Anual', value: '5.61%' },
-  { id: 3, name: 'Costos Optimizados', value: 'Competitivos' },
-  { id: 4, name: 'Entrega', value: 'Tiempos Óptimos' },
+  { id: 1, name: 'Clientes a nivel nacional', value: '+100' },
+  { id: 2, name: 'Tasa de crecimiento anual del sector', value: '5.61%' },
+  { id: 3, name: 'Colaboradores capacitados', value: '100%' },
+  { id: 4, name: 'Cumplimiento en tiempos de entrega', value: '+95%' },
 ]
+
 
 // Iconos de Footer (Instagram y X)
 const footerSocial = [
