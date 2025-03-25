@@ -173,7 +173,7 @@
       </section>
 
       <!-- CLIENTES -->
-      <section id="clientes" class="bg-gray-50 py-12 sm:py-0 lg:py-20">
+      <section id="clientes" class="bg-gray-50 py-0 sm:py-016lg:py-20">
         <div class="max-w-7xl mx-auto px-6 lg:px-8">
           <div class="mt-10">
             <p class="text-center text-sm font-semibold uppercase text-gray-500 tracking-wide">
