@@ -172,42 +172,72 @@
         </div>
       </section>
 
-      <!-- CLIENTES -->
-      <section id="clientes" class="bg-gray-50 py-0 sm:py-016lg:py-20">
-        <div class="max-w-7xl mx-auto px-6 lg:px-8">
-          <div class="mt-10">
-            <p class="text-center text-sm font-semibold uppercase text-gray-500 tracking-wide">
-              Nuestros Clientes
-            </p>
-            <div class="mt-6 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8">
-              <div class="col-span-1 flex justify-center">
-                <img class="max-h-16 object-contain" src="/img/dashboard/essity.svg" alt="Essity" loading="lazy" />
-              </div>
-              <div class="col-span-1 flex justify-center">
-                <img class="max-h-16 object-contain" src="/img/dashboard/prisa.png" alt="Prisa" loading="lazy" />
-              </div>
-              <div class="col-span-1 flex justify-center">
-                <img class="max-h-16 object-contain" src="/img/dashboard/fibox.png" alt="Fibox" loading="lazy" />
-              </div>
-              <div class="col-span-1 flex justify-center">
-                <img class="max-h-16 object-contain" src="/img/dashboard/geo.png" alt="Geoprospec" loading="lazy" />
-              </div>
-              <div class="col-span-1 flex justify-center">
-                <img class="max-h-16 object-contain" src="/img/dashboard/deco.png" alt="Deco Muebles" loading="lazy" />
-              </div>
-              <div class="col-span-1 flex justify-center">
-                <img class="max-h-16 object-contain" src="/img/dashboard/fruna.webp" alt="Fruna" loading="lazy" />
-              </div>
-              <div class="col-span-1 flex justify-center">
-                <img class="max-h-16 object-contain" src="/img/dashboard/falabella.png" alt="Falabella" loading="lazy" />
-              </div>
-              <div class="col-span-1 flex justify-center">
-                <img class="max-h-16 object-contain" src="/img/dashboard/canontex.png" alt="Canontex" loading="lazy" />
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      
+<!-- CLIENTES -->
+<section id="clientes" class="bg-gray-50 pt-4 sm:pt-6 lg:pt-8 pb-12 sm:pb-16 lg:pb-20">
+  <div class="max-w-7xl mx-auto px-6 lg:px-8">
+    <p class="text-center text-sm font-semibold uppercase text-gray-500 tracking-wide">
+      Nuestros Clientes
+    </p>
+    <div class="mt-8 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-6 items-center justify-center">
+
+      <!-- Línea 1 (Azul y Morado) -->
+      <div class="flex justify-center items-center">
+        <img class="h-10 object-contain" src="/img/latam.png" alt="Latam" loading="lazy" />
+      </div>
+      <div class="flex justify-center items-center">
+        <img class="h-12 object-contain" src="/img/dashboard/essity.svg" alt="Essity" loading="lazy" />
+      </div>
+      <div class="flex justify-center items-center">
+        <img class="h-12 object-contain" src="/img/dashboard/deco.png" alt="Deco Muebles" loading="lazy" />
+      </div>
+      <div class="flex justify-center items-center">
+        <img class="h-10 object-contain" src="/img/walmart.png" alt="Walmart" loading="lazy" />
+      </div>
+      <div class="flex justify-center items-center">
+        <img class="h-12 object-contain" src="/img/dashboard/fruna.webp" alt="Fruna" loading="lazy" />
+      </div>
+
+      <!-- Línea 2 (Verdes) -->
+      <div class="flex justify-center items-center">
+        <img class="h-14 object-contain" src="/img/dashboard/geo.png" alt="Geoprospec" loading="lazy" />
+      </div>
+      <div class="flex justify-center items-center">
+        <img class="h-12 object-contain" src="/img/dashboard/fibox.png" alt="Fibox" loading="lazy" />
+      </div>
+      <div class="flex justify-center items-center">
+        <img class="h-10 object-contain" src="/img/tottus.png" alt="Tottus" loading="lazy" />
+      </div>
+      <div class="flex justify-center items-center">
+        <img class="h-12 object-contain" src="/img/dashboard/falabella.png" alt="Falabella" loading="lazy" />
+      </div>
+      <div class="flex justify-center items-center">
+        <img class="h-12 object-contain" src="/img/dashboard/prisa.png" alt="Prisa" loading="lazy" />
+      </div>
+
+      <!-- Línea 3 (Colores neutros) -->
+      <div class="flex justify-center items-center">
+        <img class="h-12 object-contain" src="/img/dashboard/canontex.png" alt="Canontex" loading="lazy" />
+      </div>
+      <div class="flex justify-center items-center">
+        <img class="h-10 object-contain" src="/img/paris.png" alt="Paris" loading="lazy" />
+      </div>
+      <div class="flex justify-center items-center">
+        <img class="h-10 object-contain" src="/img/ripley.png" alt="Ripley" loading="lazy" />
+      </div>
+      <div class="flex justify-center items-center">
+        <img class="h-12 object-contain" src="/img/contrumart.jpeg" alt="Contrumart" loading="lazy" />
+      </div>
+      <div class="flex justify-center items-center">
+        <img class="h-12 object-contain" src="/img/tecnopapel.png" alt="Tecnopapel" loading="lazy" />
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
 
       <!-- PANORAMA LOGÍSTICO -->
       <section id="panorama-logistico" class="bg-white py-12">
@@ -513,7 +543,7 @@ const services = [
 
 // Datos para la sección Estadísticas
 const stats = [
-  { id: 1, name: 'Clientes a nivel nacional', value: '+100' },
+  { id: 1, name: 'Clientes y Colaboradores', value: '+100' },
   { id: 2, name: 'Tasa de crecimiento anual del sector', value: '5.61%' },
   { id: 3, name: 'Colaboradores capacitados', value: '100%' },
   { id: 4, name: 'Cumplimiento en tiempos de entrega', value: '+95%' },
