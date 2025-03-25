@@ -290,7 +290,7 @@
     
     <!-- ACHS Virtual + Gestión -->
     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition text-center">
-      <img src="/img/dashboard/achs.png" alt="ACHS" class="mx-auto h-12 mb-4" loading="lazy" />
+      <img src="/img/achs.png" alt="ACHS" class="mx-auto h-12 mb-4" loading="lazy" />
       <p class="text-lg font-bold text-indigo-600">ACHS Virtual & Gestión</p>
       <p class="mt-2 text-sm text-gray-700 text-justify">
         Herramientas digitales de capacitación y gestión avanzada en seguridad y salud laboral, promoviendo el bienestar y cumplimiento normativo en toda la organización.
@@ -299,7 +299,7 @@
 
     <!-- Subcontralaley -->
     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition text-center">
-      <img src="/img/dashboard/subcontralaley.png" alt="Subcontralaley" class="mx-auto h-12 mb-4" loading="lazy" />
+      <img src="/img/subcontrataley.png" alt="Subcontralaley" class="mx-auto h-12 mb-4" loading="lazy" />
       <p class="text-lg font-bold text-indigo-600">Subcontralaley</p>
       <p class="mt-2 text-sm text-gray-700 text-justify">
         Sistema de monitoreo y gestión para asegurar el cumplimiento normativo de trabajadores y empresas colaboradoras.
@@ -308,7 +308,7 @@
 
     <!-- Maquinaria para Construcción -->
     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition text-center">
-      <img src="/img/dashboard/maquinaria.png" alt="Maquinaria para Construcción" class="mx-auto h-12 mb-4" loading="lazy" />
+      <img src="/img/santaema.jpeg" alt="Maquinaria para Construcción" class="mx-auto h-12 mb-4" loading="lazy" />
       <p class="text-lg font-bold text-indigo-600">Maquinaria para Construcción</p>
       <p class="mt-2 text-sm text-gray-700 text-justify">
         Nos aliamos con empresas líderes en arriendo de maquinaria para asegurar operaciones eficientes y seguras.
@@ -317,7 +317,7 @@
 
     <!-- Alianza con Transportes -->
     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition text-center">
-      <img src="/img/dashboard/maquinaria.png" alt="Alianza con Transportes" class="mx-auto h-12 mb-4" loading="lazy" />
+      <img src="/img/al.jpeg" alt="Alianza con Transportes" class="mx-auto h-12 mb-4" loading="lazy" />
       <p class="text-lg font-bold text-indigo-600">Alianza con Transportes</p>
       <p class="mt-2 text-sm text-gray-700 text-justify">
         Establecemos convenios con empresas de transporte para ampliar nuestra cobertura logística a lo largo del país.
