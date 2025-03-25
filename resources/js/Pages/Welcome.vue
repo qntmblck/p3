@@ -181,7 +181,7 @@
     </p>
     <div class="mt-8 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-6 items-center justify-center">
 
-      <!-- Línea 1 (Azul y Morado) -->
+      <!-- Línea 1 -->
       <div class="flex justify-center items-center">
         <img class="h-10 object-contain" src="/img/latam.png" alt="Latam" loading="lazy" />
       </div>
@@ -189,16 +189,16 @@
         <img class="h-12 object-contain" src="/img/dashboard/essity.svg" alt="Essity" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-12 object-contain" src="/img/dashboard/deco.png" alt="Deco Muebles" loading="lazy" />
+        <img class="h-14 object-contain" src="/img/dashboard/fruna.webp" alt="Fruna" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
         <img class="h-10 object-contain" src="/img/walmart.png" alt="Walmart" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-12 object-contain" src="/img/dashboard/fruna.webp" alt="Fruna" loading="lazy" />
+        <img class="h-12 object-contain" src="/img/dashboard/deco.png" alt="Deco Muebles" loading="lazy" />
       </div>
 
-      <!-- Línea 2 (Verdes) -->
+      <!-- Línea 2 -->
       <div class="flex justify-center items-center">
         <img class="h-14 object-contain" src="/img/dashboard/geo.png" alt="Geoprospec" loading="lazy" />
       </div>
@@ -212,10 +212,10 @@
         <img class="h-12 object-contain" src="/img/dashboard/falabella.png" alt="Falabella" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-12 object-contain" src="/img/dashboard/prisa.png" alt="Prisa" loading="lazy" />
+        <img class="h-14 object-contain" src="/img/dashboard/prisa.png" alt="Prisa" loading="lazy" />
       </div>
 
-      <!-- Línea 3 (Colores neutros) -->
+      <!-- Línea 3 -->
       <div class="flex justify-center items-center">
         <img class="h-12 object-contain" src="/img/dashboard/canontex.png" alt="Canontex" loading="lazy" />
       </div>
@@ -226,7 +226,7 @@
         <img class="h-10 object-contain" src="/img/ripley.png" alt="Ripley" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-12 object-contain" src="/img/contrumart.jpeg" alt="Contrumart" loading="lazy" />
+        <img class="h-14 object-contain" src="/img/contrumart.jpeg" alt="Construmart" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
         <img class="h-12 object-contain" src="/img/tecnopapel.png" alt="Tecnopapel" loading="lazy" />
@@ -235,6 +235,8 @@
     </div>
   </div>
 </section>
+
+
 
 
 
