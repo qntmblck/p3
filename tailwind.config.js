@@ -17,6 +17,9 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
+            saturate: {
+                '75': '0.5', // <-- Añadido aquí
+            },
         },
     },
 

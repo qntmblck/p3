@@ -172,8 +172,7 @@
         </div>
       </section>
 
-      
-      <!-- CLIENTES -->
+      <!-- CLIENTES ACTUALIZADO -->
       <section id="clientes" class="bg-gray-50 pt-4 sm:pt-6 lg:pt-8 pb-12 sm:pb-16 lg:pb-20">
   <div class="max-w-7xl mx-auto px-6 lg:px-8">
     <p class="text-center text-sm font-semibold uppercase text-gray-500 tracking-wide">
@@ -183,59 +182,58 @@
 
       <!-- Línea 1 -->
       <div class="flex justify-center items-center">
-        <img class="h-10 object-contain" src="/img/latam.png" alt="Latam" loading="lazy" />
+        <img class="h-10 object-contain saturate-75" src="/img/latam.png" alt="Latam" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-12 object-contain" src="/img/dashboard/essity.svg" alt="Essity" loading="lazy" />
+        <img class="h-12 object-contain saturate-75" src="/img/dashboard/essity.svg" alt="Essity" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-14 object-contain" src="/img/dashboard/fruna.webp" alt="Fruna" loading="lazy" />
+        <img class="h-10 object-contain saturate-75" src="/img/ripley.png" alt="Ripley" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-10 object-contain" src="/img/walmart.png" alt="Walmart" loading="lazy" />
+        <img class="h-10 object-contain saturate-75" src="/img/walmart.png" alt="Walmart" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-12 object-contain" src="/img/dashboard/deco.png" alt="Deco Muebles" loading="lazy" />
+        <img class="h-12 object-contain saturate-75" src="/img/dashboard/deco.png" alt="Deco Muebles" loading="lazy" />
       </div>
 
       <!-- Línea 2 -->
       <div class="flex justify-center items-center">
-        <img class="h-14 object-contain" src="/img/dashboard/geo.png" alt="Geoprospec" loading="lazy" />
+        <img class="h-14 object-contain saturate-75" src="/img/dashboard/geo.png" alt="Geoprospec" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-12 object-contain" src="/img/dashboard/fibox.png" alt="Fibox" loading="lazy" />
+        <img class="h-12 object-contain saturate-75" src="/img/dashboard/fibox.png" alt="Fibox" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-10 object-contain" src="/img/tottus.png" alt="Tottus" loading="lazy" />
+        <img class="h-10 object-contain saturate-75" src="/img/tottus.png" alt="Tottus" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-12 object-contain" src="/img/dashboard/falabella.png" alt="Falabella" loading="lazy" />
+        <img class="h-12 object-contain saturate-75" src="/img/dashboard/falabella.png" alt="Falabella" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-14 object-contain" src="/img/dashboard/prisa.png" alt="Prisa" loading="lazy" />
+        <img class="h-14 object-contain saturate-75" src="/img/dashboard/prisa.png" alt="Prisa" loading="lazy" />
       </div>
 
       <!-- Línea 3 -->
       <div class="flex justify-center items-center">
-        <img class="h-12 object-contain" src="/img/dashboard/canontex.png" alt="Canontex" loading="lazy" />
+        <img class="h-12 object-contain saturate-75" src="/img/dashboard/canontex.png" alt="Canontex" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-10 object-contain" src="/img/paris.png" alt="Paris" loading="lazy" />
+        <img class="h-10 object-contain saturate-75" src="/img/paris.png" alt="Paris" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-10 object-contain" src="/img/ripley.png" alt="Ripley" loading="lazy" />
+        <img class="h-14 object-contain saturate-75" src="/img/dashboard/fruna.webp" alt="Fruna" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-14 object-contain" src="/img/contrumart.jpeg" alt="Construmart" loading="lazy" />
+        <img class="h-14 object-contain saturate-75" src="/img/contrumart.jpeg" alt="Construmart" loading="lazy" />
       </div>
       <div class="flex justify-center items-center">
-        <img class="h-12 object-contain" src="/img/tecnopapel.png" alt="Tecnopapel" loading="lazy" />
+        <img class="h-12 object-contain saturate-75" src="/img/tecnopapel.png" alt="Tecnopapel" loading="lazy" />
       </div>
 
     </div>
   </div>
       </section>
-
 
       <!-- PANORAMA LOGÍSTICO -->
       <section id="panorama-logistico" class="bg-white py-12">
