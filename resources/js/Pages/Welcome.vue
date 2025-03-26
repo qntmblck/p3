@@ -173,8 +173,8 @@
       </section>
 
       
-<!-- CLIENTES -->
-<section id="clientes" class="bg-gray-50 pt-4 sm:pt-6 lg:pt-8 pb-12 sm:pb-16 lg:pb-20">
+      <!-- CLIENTES -->
+      <section id="clientes" class="bg-gray-50 pt-4 sm:pt-6 lg:pt-8 pb-12 sm:pb-16 lg:pb-20">
   <div class="max-w-7xl mx-auto px-6 lg:px-8">
     <p class="text-center text-sm font-semibold uppercase text-gray-500 tracking-wide">
       Nuestros Clientes
@@ -234,7 +234,7 @@
 
     </div>
   </div>
-</section>
+      </section>
 
 
       <!-- PANORAMA LOGÍSTICO -->
@@ -283,8 +283,8 @@
   </div>
       </section>
 
-<!-- NUESTROS SERVICIOS -->
-<section id="servicios" class="bg-white py-12">
+      <!-- NUESTROS SERVICIOS -->
+      <section id="servicios" class="bg-white py-12">
   <div class="mx-auto max-w-4xl text-center">
     <p class="text-4xl font-bold tracking-tight text-gray-900">
       Nuestro Servicio
@@ -302,10 +302,10 @@
       <p class="mt-2 text-lg text-gray-700 text-justify">{{ item.description }}</p>
     </div>
   </div>
-</section>
+      </section>
 
-<!-- COMPROMISO Y ALIANZAS (incluye Educación y Bienestar) -->
-<section id="compromiso" class="bg-gray-50 py-12">
+      <!-- COMPROMISO Y ALIANZAS (incluye Educación y Bienestar) -->
+      <section id="compromiso" class="bg-gray-50 py-12">
   <div class="mx-auto max-w-4xl text-center">
     <p class="text-4xl font-bold tracking-tight text-gray-900">
       Compromiso y Alianzas
@@ -353,11 +353,10 @@
     </div>
 
   </div>
-</section>
+      </section>
 
-
-<!-- ESTADÍSTICAS Y COMPROMISO -->
-<section class="bg-gray-100 py-12">
+      <!-- ESTADÍSTICAS Y COMPROMISO -->
+      <section class="bg-gray-100 py-12">
   <div class="mx-auto max-w-4xl text-center">
     <p class="text-4xl font-bold tracking-tight text-gray-900">
       Confiado por cientos de clientes y colaboradores en todo Chile
@@ -375,12 +374,10 @@
       <dd class="order-first text-3xl font-bold tracking-tight">{{ stat.value }}</dd>
     </div>
   </dl>
-</section>
+      </section>
 
-
-
-<!-- CTA SECTION -->
-<section class="relative isolate mt-16 px-6 py-24 sm:py-32 lg:px-8 bg-gray-900">
+      <!-- CTA SECTION -->
+      <section class="relative isolate mt-16 px-6 py-24 sm:py-32 lg:px-8 bg-gray-900">
         <svg
           class="absolute inset-0 -z-10 w-full h-full stroke-white/10 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]"
           aria-hidden="true"
@@ -438,11 +435,11 @@
             </Link>
           </div>
         </div>
-</section>
-</main>
+      </section>
+    </main>
 
-<!-- FOOTER -->
-<footer id="contacto" class="mx-auto max-w-7xl px-6 lg:px-8">
+    <!-- FOOTER -->
+    <footer id="contacto" class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="border-t border-gray-900/10 py-12 md:flex md:items-center md:justify-between">
         <div class="flex justify-center gap-x-6 md:order-2">
           <a
@@ -460,8 +457,8 @@
           &copy; 2024 Transportes SCAR. Todos los derechos reservados.
         </p>
       </div>
-</footer>
- </div>
+    </footer>
+  </div>
 </template>
 
 <script setup>
@@ -546,7 +543,6 @@ const stats = [
   { id: 3, name: 'Colaboradores capacitados', value: '100%' },
   { id: 4, name: 'Cumplimiento en tiempos de entrega', value: '+95%' },
 ]
-
 
 // Iconos de Footer (Instagram y X)
 const footerSocial = [
