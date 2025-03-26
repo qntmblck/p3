@@ -237,10 +237,6 @@
 </section>
 
 
-
-
-
-
       <!-- PANORAMA LOGÍSTICO -->
       <section id="panorama-logistico" class="bg-white py-12">
   <div class="mx-auto max-w-4xl text-center">
