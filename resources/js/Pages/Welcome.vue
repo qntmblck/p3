@@ -1,4 +1,11 @@
 <template>
+  <Head>
+    <title>SGX</title>
+    <meta
+      name="description"
+      content="Transportes SCAR, con más de 25 años de experiencia, ofrece soluciones de transporte de carga seguras, eficientes y sostenibles en Chile."
+    />
+  </Head>
   <div class="bg-white">
     <!-- Header -->
     <header class="absolute inset-x-0 top-0 z-50">
