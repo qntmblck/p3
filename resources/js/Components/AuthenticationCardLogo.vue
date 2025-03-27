@@ -4,7 +4,7 @@ import { Link } from '@inertiajs/vue3';
 
 <template>
     <img
-        src="/img/logo.png"
+        src="/img/sgx.png"
         alt="SGX"
         class="w-60 h-auto mx-auto rounded-md shadow-sm"
     />
