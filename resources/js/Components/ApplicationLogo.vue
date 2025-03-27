@@ -1,3 +1,3 @@
 <template>
-    <img src="/img/logoscar.png" alt="Transportes SCAR" class="h-20 w-auto" />
+    <img src="/img/logo.png" alt="SGX" class="h-20 w-auto" />
   </template>

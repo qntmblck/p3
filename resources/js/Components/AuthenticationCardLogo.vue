@@ -4,8 +4,8 @@ import { Link } from '@inertiajs/vue3';
 
 <template>
     <img
-        src="/img/logoscar.png"
-        alt="Transportes SCAR"
+        src="/img/logo.png"
+        alt="SGX"
         class="w-60 h-auto mx-auto rounded-md shadow-sm"
     />
 </template>

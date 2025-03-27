@@ -8,7 +8,7 @@
       <nav class="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
         <div class="flex lg:flex-1">
           <a href="#" class="-m-1.5 p-1.5">
-            <span class="sr-only">Your ComDASDSApany</span>
+            <span class="sr-only">Your Company</span>
             <img class="h-8 w-auto" src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500" alt="" />
           </a>
         </div>
@@ -67,7 +67,7 @@
               </div>
             </div>
             <div class="text-center">
-              <h1 class="text-balance text-5xl font-semibold tracking-tight text-white sm:text-7xl">Data to endSDasdasrich your online business</h1>
+              <h1 class="text-balance text-5xl font-semibold tracking-tight text-white sm:text-7xl">Data to enrich your online business</h1>
               <p class="mt-8 text-pretty text-lg font-medium text-gray-400 sm:text-xl/8">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat.</p>
               <div class="mt-10 flex items-center justify-center gap-x-6">
                 <a href="#" class="rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Get started</a>
