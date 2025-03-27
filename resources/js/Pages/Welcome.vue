@@ -1,6 +1,6 @@
 <template>
   <Head>
-    <link rel="icon" type="image/png" href="{{ asset('img/sgx.png') }}">
+    <link rel="icon" type="image/png" href="{{ asset('img/sgxico.png') }}">
     <title>SGX</title>
   </Head>
   <div class="bg-white">
